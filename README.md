@@ -1,1 +1,2 @@
-# hellow-world
+# hellow
+my name is Majid khazaei i'm always learning...
