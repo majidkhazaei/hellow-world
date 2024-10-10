@@ -1,3 +1,4 @@
+
 ## 🚀 About Me
 
 Hi there! 👋 I’m Majid Khazaei
@@ -10,8 +11,8 @@ overview of my skills:
 
 Web Development:
    
-    HTML/CSS: I create clean and responsive web pages using HTML and CSS. I love designing user-friendly interfaces!
-    JavaScript: I’m proficient in vanilla JavaScript and enjoy building interactive web applications.
+HTML/CSS: I create clean and responsive web pages using HTML and CSS. I love designing user-friendly interfaces!
+JavaScript: I’m proficient in vanilla JavaScript and enjoy building interactive web applications.
 
 Data Science and Machine Learning:
     Python: My go-to language for data analysis, machine learning, and scientific computing.
@@ -21,5 +22,7 @@ Data Science and Machine Learning:
 
 Databases:
     MySQL: I’ve designed and optimized relational databases using MySQL.
+
+
 
 
