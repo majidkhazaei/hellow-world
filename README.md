@@ -12,6 +12,7 @@ overview of my skills:
 Web Development:
    
 HTML/CSS: I create clean and responsive web pages using HTML and CSS. I love designing user-friendly interfaces!
+
 JavaScript: I’m proficient in vanilla JavaScript and enjoy building interactive web applications.
 
 Data Science and Machine Learning:
@@ -22,6 +23,8 @@ Data Science and Machine Learning:
 
 Databases:
     MySQL: I’ve designed and optimized relational databases using MySQL.
+
+
 
 
 
